@@ -1,0 +1,22 @@
+# Danh sách thư viện cần thiết cho dự án AI Quản Lý Tài Chính Cá Nhân
+
+# Xử lý dữ liệu
+pandas  # Thư viện xử lý dữ liệu dạng bảng, hỗ trợ CSV, Excel
+numpy  # Thư viện tính toán khoa học, hỗ trợ ma trận, số học
+
+# Machine Learning & AI
+scikit-learn  # Bộ công cụ học máy cho Python, dùng để phân loại giao dịch
+tensorflow  # Thư viện học sâu, hỗ trợ xây dựng mô hình dự đoán tài chính
+
+# Backend API
+fastapi  # Framework xây dựng API nhanh và hiệu quả
+uvicorn  # Server chạy FastAPI
+
+# Giao diện & Trực quan hóa dữ liệu
+streamlit  # Framework đơn giản để xây dựng giao diện web
+matplotlib  # Công cụ vẽ biểu đồ, trực quan hóa dữ liệu tài chính
+seaborn  # Thư viện hỗ trợ biểu đồ nâng cao
+
+# Chatbot & Tương tác
+telegram  # Thư viện tích hợp bot Telegram để tư vấn tài chính
+
